@@ -1,27 +1,29 @@
-# Customizing your repository
+<p align="center">
+  <br>
+   <img src="https://media.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy.gif" alt="A small kid trying to study by praying for the notebook" title="Notebook header's GIF" />
+  <br>
+</p>
+<p align="center">
+Class and study notes for multiple purposes 
+</p>
 
-After creating a new repository with this template, some files may require proper customization. To do so, please follow these steps:
+# Template Base
 
-## Prerequisites
+* [Why](#why)
+* [Available notebooks](#available-notebooks)
+* [License](#license)
 
-* [gomplate][]
-* [tree][]
+## Why
 
-## Customization
+Using a proper notebook structure can increase my productivity a lot while I'm studying. This repository aims to organize my study notes by creating a hub where I can unify those notebooks.
 
-### Step 1: Define your variables
+## Available notebooks
 
-You can do so by replacing the values inside the `customize.json` file
+* [POSCOMP Prep][poscomp-prep-notebook]
 
-### Step 2: Run the customization binary
+## License
 
-```sh
-./customize
-```
+This repository is distributed under the Apache 2.0 License. See [`LICENSE`][license] for more information.
 
-### Step 3: Enjoy!
-
-Now, your repository is ready to go!
-
-[gomplate]: https://docs.gomplate.ca/installing/
-[tree]: https://linux.die.net/man/1/tree
+[license]: LICENSE
+[poscomp-prep-notebook]: notebooks/poscomp-prep
