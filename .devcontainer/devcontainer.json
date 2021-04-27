@@ -1,4 +1,11 @@
 {
   "image": "mcr.microsoft.com/vscode/devcontainers/miniconda:3",
-  "runArgs": ["--user", "1000:1000"]
+	"runArgs": [
+		"--user",
+		"1000:1000"
+	],
+	"extensions": [
+		"ms-toolsai.jupyter",
+		"ms-python.python"
+	]
 }
