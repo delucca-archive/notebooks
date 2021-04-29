@@ -1,13 +1,13 @@
 <p align="center">
   <br>
-   <img src="https://media.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy.gif" alt="A small kid trying to study by praying for the notebook" title="Notebook header's GIF" />
+   <img src="https://i.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy.webp" alt="A small kid trying to study by praying for the notebook" title="Notebook header's GIF" />
   <br>
 </p>
 <p align="center">
 Class and study notes for multiple purposes 
 </p>
 
-# Template Base
+# Notebooks
 
 * [Why](#why)
 * [Available notebooks](#available-notebooks)
